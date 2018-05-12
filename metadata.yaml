@@ -1,0 +1,36 @@
+_repo: Travels-in-South-Kensingtonwith-Notes-on-Decorative-Art-and-Architecture-in-England_42571
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42571-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Conway, Moncure Daniel
+    alias: Conway, M. D. (Moncure Daniel)
+    birthdate: 1832
+    deathdate: 1907
+    gutenberg_agent_id: '1283'
+    url: http://www.gutenberg.org/2009/agents/1283
+    wikipedia: http://en.wikipedia.org/wiki/Moncure_Daniel_Conway
+description: The South Kensington museum.--Decorative art and architecture in England.--Bedford
+  park.
+gutenberg_issued: '2013-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42571'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Victoria and Albert Museum'
+- !lcsh 'Decoration and ornament -- England'
+- !lcsh 'Architecture -- England'
+- !lcc 'N'
+- !lcsh 'Suburban homes -- England -- Bedford Park'
+tableOfContents: The South Kensington Museum -- Decorative art and architecture in
+  England -- Bedford Park.
+title: 'Travels in South Kensington
+
+  with Notes on Decorative Art and Architecture in England'
+url: http://www.gutenberg.org/ebooks/42571
