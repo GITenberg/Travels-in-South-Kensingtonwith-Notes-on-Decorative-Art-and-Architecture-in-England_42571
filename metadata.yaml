@@ -14,6 +14,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Moncure_Daniel_Conway
 description: The South Kensington museum.--Decorative art and architecture in England.--Bedford
   park.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42571#Travels-in-South-Kensingtonwith-Notes-on-Decorative-Art-and-Architecture-in-England
 gutenberg_issued: '2013-04-22'
 gutenberg_type: Text
 identifiers:
